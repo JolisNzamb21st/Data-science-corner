@@ -1,2 +1,2 @@
 # Data-science-corner
-This is the first notebook that give a brief overview of data sciences tools 
+This is my first notebook which gives a brief overview of data science tools 
